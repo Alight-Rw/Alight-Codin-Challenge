@@ -11,8 +11,8 @@ HackerRank Test: You will complete a series of 3 algorithmic questions on Hacker
 
   🔖Part 2: Web Development Project
 * Google Front Page Clone:
-(U<img width="1440" alt="Screenshot 2024-07-09 at 14 44 31" src="https://github.com/Alight-Rw/Alight-Codin-Challenge/assets/57622276/23ad2b50-db7f-4eb5-af2c-98fe1ad77833">
-)
+<img width="1440" alt="Screenshot 2024-07-09 at 14 44 31" src="https://github.com/Alight-Rw/Alight-Codin-Challenge/assets/57622276/23ad2b50-db7f-4eb5-af2c-98fe1ad77833">
+
   - Objective: Create a clone of the Google front page.
   - Technology Stack: Use JavaScript or TypeScript with the React library.
   - Design Requirements:
