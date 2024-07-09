@@ -39,7 +39,7 @@ If you choose to add backend functionality, you can create a simple Node.js/Expr
 📄Submission Guidelines
 
       - Project Repository: Your project should be hosted on an online.
-      - Submit via this Google https://forms.gle/JxZNejXycnkdRuke7
+      - Submit via this Google [https://forms.gle/JxZNejXycnkdRuke7](https://forms.gle/JxZNejXycnkdRuke7)
       - Deadline: 12 July 2024 at 5pm, submit before then.
 
   - README File: Include a detailed README file with the following information:
