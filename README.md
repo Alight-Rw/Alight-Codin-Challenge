@@ -10,9 +10,9 @@ Your skills in both algorithmic problem-solving and web development will be asse
 HackerRank Test: You will complete a series of 3 algorithmic questions on HackerRank. The questions will cover topics such as data structures, algorithms, and problem-solving skills. Once you have completed this test, proceed to Part 2.
 
   🔖Part 2: Web Development Project
-![Alt text](U<img width="1440" alt="Screenshot 2024-07-09 at 14 44 31" src="https://github.com/Alight-Rw/Alight-Codin-Challenge/assets/57622276/23ad2b50-db7f-4eb5-af2c-98fe1ad77833">
-)
 * Google Front Page Clone:
+(U<img width="1440" alt="Screenshot 2024-07-09 at 14 44 31" src="https://github.com/Alight-Rw/Alight-Codin-Challenge/assets/57622276/23ad2b50-db7f-4eb5-af2c-98fe1ad77833">
+)
   - Objective: Create a clone of the Google front page.
   - Technology Stack: Use JavaScript or TypeScript with the React library.
   - Design Requirements:
