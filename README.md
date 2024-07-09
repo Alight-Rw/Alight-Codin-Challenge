@@ -38,7 +38,9 @@ If you choose to add backend functionality, you can create a simple Node.js/Expr
 
 📄Submission Guidelines
 
-      - Project Repository: Your project should be hosted on an online repository such as GitHub or GitLab.
+      - Project Repository: Your project should be hosted on an online.
+      - Submit via this Google https://forms.gle/JxZNejXycnkdRuke7
+      - Deadline: 12 July 2024 at 5pm, submit before then.
 
   - README File: Include a detailed README file with the following information:
     Overview of the project.
@@ -47,7 +49,7 @@ If you choose to add backend functionality, you can create a simple Node.js/Expr
       - Steps to run the project.
       - Explanation of the code structure.
       - Any additional features or considerations.
-      - Deadline: The completed project must be submitted by 15 July 2024 at noon time.
+      - Deadline: The completed project must be submitted by 12 July 2024 at noon time.
 
 👷🏽‍♀️Best Practices
       - Follow best coding practices, including proper variable naming, code modularity, and commenting
@@ -56,6 +58,9 @@ If you choose to add backend functionality, you can create a simple Node.js/Expr
       - Apply appropriate validation, especially for user inputs.
       - Document your API if you have implemented any backend functionality (e.g., using Swagger or Postman).
       - Ensure your application is well-tested, with clear instructions on how to run the tests.
+
+
+
 
 ✨Bonus Points
   - Mobile Responsiveness: Ensure that the application looks and works well on smaller screens.
