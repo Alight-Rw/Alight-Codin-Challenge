@@ -18,7 +18,7 @@ HackerRank Test: You will complete a series of 3 algorithmic questions on Hacker
   - Design Requirements:
      - Ensure the design closely mimics the current Google homepage.
      - Implement a search functionality using any random API for searching data.
-     - Responsiveness: The webpage should be responsive and accessible across different devices including desktops, laptops, tablets, and smartphones.
+     - Responsiveness: The webpage should be responsive and accessible across different devices including desktops, laptops, tablets, and           smartphones is a plus.
      - Additional Features: Feel free to add any additional features or enhancements that you think would improve the user experience.
 
 Requirements
@@ -50,18 +50,17 @@ If you choose to add backend functionality, you can create a simple Node.js/Expr
       - Deadline: The completed project must be submitted by 15 July 2024 at noon time.
 
 👷🏽‍♀️Best Practices
-      -Follow best coding practices, including proper variable naming, code modularity, and commenting.
-      -Ensure the application is properly logged and errors are handled gracefully.
-      -Avoid hardcoding any sensitive information; use environment variables where necessary.
-      -Apply appropriate validation, especially for user inputs.
-      -Document your API if you have implemented any backend functionality (e.g., using Swagger or Postman).
-      -Ensure your application is well-tested, with clear instructions on how to run the tests.
+      - Follow best coding practices, including proper variable naming, code modularity, and commenting
+      - Ensure the application is properly logged and errors are handled gracefully.
+      - Avoid hardcoding any sensitive information; use environment variables where necessary.
+      - Apply appropriate validation, especially for user inputs.
+      - Document your API if you have implemented any backend functionality (e.g., using Swagger or Postman).
+      - Ensure your application is well-tested, with clear instructions on how to run the tests.
 
 ✨Bonus Points
   - Mobile Responsiveness: Ensure that the application looks and works well on smaller screens.
   - Additional Features: Adding useful features or enhancements to improve the user experience.
   - Additional Resources
-  - Figma Designs: If there are specific design elements you need to refer to, you can use the following Figma link: Figma Designs
-  - HackerRank Test: You will receive a link to the HackerRank test via email.
-    
+
+  - HackerRank Test: You will receive a link to the HackerRank test via email.    
  ♡♥💕❤ Good luck with your challenge! We look forward to seeing your innovative solutions and development skills
