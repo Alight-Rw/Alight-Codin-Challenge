@@ -1,7 +1,10 @@
 # Alight-Coding-Challenge
 Details on Test
 Challenge Overview
-This challenge consists of two parts: a HackerRank test and a web development project. Your skills in both algorithmic problem-solving and web development will be assessed.
+This challenge consists of two parts: 
+  - a HackerRank test and
+  - a web development project.
+Your skills in both algorithmic problem-solving and web development will be assessed.
 
   🔖Part 1: HackerRank Test
 HackerRank Test: You will complete a series of 3 algorithmic questions on HackerRank. The questions will cover topics such as data structures, algorithms, and problem-solving skills. Once you have completed this test, proceed to Part 2.
