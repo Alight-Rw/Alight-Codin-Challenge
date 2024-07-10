@@ -52,6 +52,7 @@ If you choose to add backend functionality, you can create a simple Node.js/Expr
       - Deadline: The completed project must be submitted by 12 July 2024 at noon time.
 
 👷🏽‍♀️Best Practices
+      - Technologies used.
       - Follow best coding practices, including proper variable naming, code modularity, and commenting
       - Ensure the application is properly logged and errors are handled gracefully.
       - Avoid hardcoding any sensitive information; use environment variables where necessary.
