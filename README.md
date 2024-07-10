@@ -58,6 +58,12 @@ If you choose to add backend functionality, you can create a simple Node.js/Expr
       - Avoid hardcoding any sensitive information; use environment variables where necessary.
       - Apply appropriate validation, especially for user inputs.
       - Document your API if you have implemented any backend functionality (e.g., using Swagger or Postman)-Optional Bonus.
+
+📄Best Practices
+
+* Project Repository: Your project should be hosted on an online.
+* Submit via this Google (https://forms.gle/JxZNejXycnkdRuke7)
+* Deadline: 12 July 2024 at 5pm, submit before then.
      
 ✨Bonus Points
       - Mobile Responsiveness: Ensure that the application looks and works well on smaller screens.
