@@ -56,16 +56,17 @@ If you choose to add backend functionality, you can create a simple Node.js/Expr
       - Ensure the application is properly logged and errors are handled gracefully.
       - Avoid hardcoding any sensitive information; use environment variables where necessary.
       - Apply appropriate validation, especially for user inputs.
-      - Document your API if you have implemented any backend functionality (e.g., using Swagger or Postman).
-      - Ensure your application is well-tested, with clear instructions on how to run the tests.
+      - Document your API if you have implemented any backend functionality (e.g., using Swagger or Postman)-Optional Bonus.
+     
 
 
 
 
 ✨Bonus Points
-  - Mobile Responsiveness: Ensure that the application looks and works well on smaller screens.
-  - Additional Features: Adding useful features or enhancements to improve the user experience.
-  - Additional Resources
+    - Mobile Responsiveness: Ensure that the application looks and works well on smaller screens.
+    - Additional Features: Adding useful features or enhancements to improve the user experience.
 
-  - HackerRank Test: You will receive a link to the HackerRank test via email.    
- ♡♥💕❤ Good luck with your challenge! We look forward to seeing your innovative solutions and development skills
+    - Additional Resources:
+    - HackerRank Test: You will receive a link to the HackerRank test via email.    
+    
+    ♡♥💕❤ Good luck with your challenge! We look forward to seeing your innovative solutions and development skills
