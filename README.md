@@ -63,10 +63,10 @@ If you choose to add backend functionality, you can create a simple Node.js/Expr
 
 
 ✨Bonus Points
-    - Mobile Responsiveness: Ensure that the application looks and works well on smaller screens.
-    - Additional Features: Adding useful features or enhancements to improve the user experience.
+      - Mobile Responsiveness: Ensure that the application looks and works well on smaller screens.
+      - Additional Features: Adding useful features or enhancements to improve the user experience.
 
-    - Additional Resources:
-    - HackerRank Test: You will receive a link to the HackerRank test via email.    
+      - Additional Resources:
+      - HackerRank Test: You will receive a link to the HackerRank test via email.    
     
     ♡♥💕❤ Good luck with your challenge! We look forward to seeing your innovative solutions and development skills
