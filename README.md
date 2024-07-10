@@ -59,10 +59,6 @@ If you choose to add backend functionality, you can create a simple Node.js/Expr
       - Apply appropriate validation, especially for user inputs.
       - Document your API if you have implemented any backend functionality (e.g., using Swagger or Postman)-Optional Bonus.
      
-
-
-
-
 ✨Bonus Points
       - Mobile Responsiveness: Ensure that the application looks and works well on smaller screens.
       - Additional Features: Adding useful features or enhancements to improve the user experience.
